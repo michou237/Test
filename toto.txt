@@ -1,4 +1,8 @@
 # Bonjour,c'est Michele,j'ai 21ans.
 j'aime manger du chocolat
+<<<<<<< HEAD
 Allô, pk tu ne réponds pas
 
+=======
+papa va au boulot
+>>>>>>> 4235ed5d4efac879ae179f30df758701204e0111
